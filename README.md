@@ -27,5 +27,5 @@ Outcomes:
 - Votes positively correlate with ratings
 
  Collaboration:
-This repository is done by **Tanisha** and **Ashwarya**
+This repository is done by **Tanisha** and **Aishwarya**
 
